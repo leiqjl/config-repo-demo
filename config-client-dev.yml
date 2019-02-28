@@ -1,5 +1,5 @@
 info:
   profile: dev
   from: git
-  key: modifiedKey
-  value: modifiedValue
+  key: Key
+  value: Value
